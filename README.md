@@ -1,5 +1,5 @@
 # Breast-Cancer-Classification
-<br>
+
 ## Problem
 Predicting if the cancer diagnosis is benign or malignant
 <br>
